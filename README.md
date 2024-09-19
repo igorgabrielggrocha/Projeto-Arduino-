@@ -32,7 +32,7 @@ Criar um termômetro digital acionado manualmente que fornece feedback sonoro de
 - O **Botão de Início** está conectado ao pino **2**, e o **Botão de Parar** está conectado ao pino **3**.
 - Ambos os botões usam resistores pull-up internos (`INPUT_PULLUP`).
 
-<img src="https://github.com/igorgabrielggrocha/atividades_arduino/blob/main/WhatsApp%20Image%202024-09-14%20at%2013.49.20.jpeg" alt="Descrição" style="transform: rotate(90deg);" width="150"/>
+<img src="https://github.com/igorgabrielggrocha/Projeto-Arduino-/blob/main/WhatsApp%20Image%202024-09-19%20at%2020.26.09.jpeg" alt="Descrição" style="transform: rotate(90deg);" width="150"/>
 
 
 ## Código do Projeto
