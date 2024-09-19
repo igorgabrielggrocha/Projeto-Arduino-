@@ -121,5 +121,5 @@ void tocarBuzzer(int intervalo) {
   noTone(buzzerPin);       // Parar o som
   delay(intervalo);        // Aguardar entre toques
 }
-
-<img src="https://github.com/igorgabrielggrocha/atividades_arduino/blob/main/WhatsApp%20Image%202024-09-14%20at%2013.49.20.jpeg" alt="Descrição" style="transform: rotate(90deg);" width="150"/>
+```
+<img src="" alt="Descrição" style="transform: rotate(90deg);" width="150"/>
