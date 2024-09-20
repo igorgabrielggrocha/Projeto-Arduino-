@@ -122,4 +122,4 @@ void tocarBuzzer(int intervalo) {
   delay(intervalo);        // Aguardar entre toques
 }
 ```
-<img src="" alt="Descrição" style="transform: rotate(90deg);" width="150"/>
+<img src="https://github.com/igorgabrielggrocha/Projeto-Arduino-/blob/main/sensor%20termo.png" alt="Descrição" style="transform: rotate(90deg);" width="500"/>
