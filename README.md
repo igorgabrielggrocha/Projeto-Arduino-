@@ -125,7 +125,3 @@ void tocarBuzzer(int intervalo) {
 <img src="https://github.com/igorgabrielggrocha/Projeto-Arduino-/blob/main/sensor%20termo.png" alt="Descrição" style="transform: rotate(90deg);" width="500"/>
 
 <img src="https://github.com/igorgabrielggrocha/Projeto-Arduino-/blob/main/sensor%20termo%20(1).png" alt="Descrição" style="transform: rotate(90deg);" width="500"/>
-
-'''cpp
-<img src="" alt="Descrição" style="transform: rotate(90deg);" width="500"/>
-'''
